@@ -5,6 +5,8 @@
 - Current project uses C++17 and follows [C++ core guidelines]'(https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - Only one external dependency is used for Parsing JSON (https://github.com/nlohmann/json) it's embedded in the source code as a single include.
 
+- IDE : vscode but it's optional.
+
 **How to build**
 
 run this shell script at the project root: `build.sh`
