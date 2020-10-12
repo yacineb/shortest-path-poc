@@ -20,12 +20,5 @@
     }
   ],
 
-  [
-    {
-      "distance_km": 12,
-      "gas_cost": 2.9,
-      "vertex_id": 0
-    }
-  ]
-
+  []
 ]
