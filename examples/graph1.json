@@ -1,0 +1,31 @@
+[
+  [
+    {
+      "distance_km": 7.4,
+      "gas_cost": 1.1,
+      "vertex_id": 1
+    },
+    {
+      "distance_km": 11.9,
+      "gas_cost": 2,
+      "vertex_id": 2
+    }
+  ],
+
+  [
+    {
+      "distance_km": 3.4,
+      "gas_cost": 0.2,
+      "vertex_id": 2
+    }
+  ],
+
+  [
+    {
+      "distance_km": 12,
+      "gas_cost": 2.9,
+      "vertex_id": 0
+    }
+  ]
+
+]

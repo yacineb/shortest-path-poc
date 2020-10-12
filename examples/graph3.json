@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "distance_km": 80.2,
+      "gas_cost": 14.3,
+      "vertex_id": 3
+    },
+    {
+      "distance_km": 126.5,
+      "gas_cost": 18.7,
+      "vertex_id": 4
+    }
+  ],
+  [
+    {
+      "distance_km": 5.3,
+      "gas_cost": 0.2,
+      "vertex_id": 4
+    },
+    {
+      "distance_km": 30.8,
+      "gas_cost": 4,
+      "vertex_id": 3
+    }
+  ],
+  [
+    {
+      "distance_km": 30.7,
+      "gas_cost": 4,
+      "vertex_id": 3
+    }
+  ],
+  [
+    {
+      "distance_km": 30.7,
+      "gas_cost": 4,
+      "vertex_id": 1
+    },
+    {
+      "distance_km": 30.8,
+      "gas_cost": 4,
+      "vertex_id": 2
+    },
+    {
+      "distance_km": 80.2,
+      "gas_cost": 14.3,
+      "vertex_id": 0
+    }
+  ],
+  [
+    {
+      "distance_km": 5.3,
+      "gas_cost": 0.2,
+      "vertex_id": 1
+    },
+    {
+      "distance_km": 126.5,
+      "gas_cost": 18.7,
+      "vertex_id": 0
+    }
+  ]
+]

@@ -1,0 +1,12 @@
+[
+    [{
+        "distance_km": 20.4,
+        "gas_cost" : 5.2,
+        "vertex_id" : 1
+    }],
+   [{
+        "distance_km": 20.4,
+        "gas_cost" : 5.2,
+        "vertex_id" : 0
+    }]
+]

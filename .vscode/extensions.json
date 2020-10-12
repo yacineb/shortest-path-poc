@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "ms-vscode.cpptools",
+    "xaver.clang-format",
+    "twxs.cmake",
+    "ms-vscode.cmake-tools",
+    "editorconfig.editorconfig",
+    "darktears.dark-c-plus-plus-theme"
+  ]
+}
